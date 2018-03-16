@@ -1,8 +1,21 @@
-# Lorem Ipsum
+# Git
 
-## What is Lorem Ipsum?
+Git is a free and open source distributed version control system designed to
+handle everything from small to very large projects with speed and efficiency.
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Git is easy to learn and has a tiny footprint with lightning fast performance.
+It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with
+features like cheap local branching, convenient staging areas, and multiple
+workflows.
+
+
+## Useful Git resources
+
+* The official Git website: <https://git-scm.com/>
+* The Pro Git book is available online for free, and it's fantastic!:
+  <https://git-scm.com/book/>
+* How to write a Git Commit Message: <https://chris.beams.io/posts/git-commit/>
+* Learn git one commit at a time: <http://gitready.com/>
 
 ## Contributors
 
